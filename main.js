@@ -18,3 +18,4 @@ console.log(typeof r);
 // undefined
 let n;
 console.log( typeof n);
+// symblos was added in es6

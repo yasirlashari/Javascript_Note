@@ -15,3 +15,6 @@ let r= 10.1;
 console.log(r);
 console.log(typeof r);
 
+// undefined
+let n;
+console.log( typeof n);

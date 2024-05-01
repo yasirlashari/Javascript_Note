@@ -10,3 +10,8 @@ console.log(typeof x)
 let s= 10;
 console.log(s);
 console.log(typeof s);
+// boolean is also number
+let r= 10.1;
+console.log(r);
+console.log(typeof r);
+
